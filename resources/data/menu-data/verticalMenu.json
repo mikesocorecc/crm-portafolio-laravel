@@ -1,0 +1,133 @@
+{
+  "menu": [
+    {
+      "url": "setting",
+      "name": "Settings",
+      "icon": "tool",
+      "slug": "settings"
+    },
+    {
+      "url": "home",
+      "name": "Home",
+      "icon": "home",
+      "slug": "home"
+    },
+    {
+      "url": "service",
+      "name": "Service",
+      "icon": "box",
+      "slug": "service"
+    },
+    {
+      "url": "education",
+      "name": "Education",
+      "icon": "book",
+      "slug": "info"
+    },
+    {
+      "url": "experience",
+      "name": "Experience",
+      "icon": "cpu",
+      "slug": "info"
+    },
+    {
+      "url": "client",
+      "name": "Clients",
+      "icon": "users",
+      "slug": "info"
+    },
+    {
+      "url": "testimonial",
+      "name": "Testimonials",
+      "icon": "book-open",
+      "slug": "info"
+    },
+    {
+      "url": "about",
+      "name": "Abouts",
+      "icon": "help-circle",
+      "slug": "help-circle"
+    },
+    {
+      "url": "message",
+      "name": "Messages",
+      "icon": "mail",
+      "slug": "info"
+    },
+    {
+      "name": "Projects",
+      "icon": "briefcase",
+      "slug": "",
+      "badgeClass": "badge rounded-pill badge-light-danger ms-auto me-1",
+      "submenu": [
+        {
+          "url": "project",
+          "name": "Projects",
+          "icon": "circle",
+          "slug": "collapsed-menu"
+        },
+        {
+          "url": "projects-category",
+          "name": "Project Category",
+          "icon": "circle",
+          "slug": "layout-full"
+        }
+      ]
+    },
+    {
+      "name": "Skills",
+      "icon": "briefcase",
+      "slug": "",
+      "badgeClass": "badge rounded-pill badge-light-danger ms-auto me-1",
+      "submenu": [
+        {
+          "url": "skill",
+          "name": "Skills",
+          "icon": "circle",
+          "slug": "collapsed-menu"
+        },
+        {
+          "url": "skill-category",
+          "name": "Skill Category",
+          "icon": "circle",
+          "slug": "layout-full"
+        }
+      ]
+    },
+    {
+      "name": "Blog",
+      "icon": "message-square",
+      "slug": "",
+      "badgeClass": "badge rounded-pill badge-light-danger ms-auto me-1",
+      "submenu": [
+        {
+          "url": "blog",
+          "name": "Blog",
+          "icon": "circle",
+          "slug": "collapsed-menu"
+        },
+        {
+          "url": "blog-category",
+          "name": "Blog Category",
+          "icon": "circle",
+          "slug": "layout-full"
+        }
+      ]
+    },
+    {
+      "name": "Page Layouts",
+      "icon": "mail",
+      "slug": "",
+      "badge": "5",
+      "badgeClass": "badge rounded-pill badge-light-danger ms-auto me-1",
+      "submenu": [
+        {
+          "url": "layouts/collapsed-menu",
+          "name": "Collapsed Menu",
+          "icon": "circle",
+          "slug": "collapsed-menu"
+        }
+      ]
+    }
+  ]
+}
